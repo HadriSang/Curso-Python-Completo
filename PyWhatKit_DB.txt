@@ -1,0 +1,30 @@
+Date: 24/1/2023
+Time: 18:49
+Phone Number: +573504308236
+Message: Hola, este es un mensaje automatizado enviado desde Python.
+--------------------
+Date: 24/1/2023
+Time: 18:51
+Phone Number: +573504308236
+Message: Hola, este es un mensaje automatizado enviado desde Python.
+--------------------
+Date: 24/1/2023
+Time: 18:55
+Phone Number: +573504308236
+Message: Hola, este es un mensaje automatizado enviado desde Python.
+--------------------
+Date: 24/1/2023
+Time: 18:57
+Phone Number: +573504308236
+Message: Hola, este es un mensaje automatizado enviado desde Python.
+--------------------
+Date: 24/1/2023
+Time: 18:59
+Phone Number: +573504308236
+Message: se pueden enviar mensajes diferentes papalindo
+--------------------
+Date: 24/1/2023
+Time: 19:1
+Phone Number: +573504308236
+Message: se pueden enviar mensajes diferentes papalindo este sera enviado desde python
+--------------------
